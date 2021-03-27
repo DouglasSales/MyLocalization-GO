@@ -1,0 +1,6 @@
+com/example/MyLocalization/BuildConfig.java
+ com.example.MyLocalization.BuildConfig
+com/example/MyLocalization/MainActivity.java
+ com.example.MyLocalization.MainActivity
+com/example/MyLocalization/MinhaLocalizacaoListener.java
+ com.example.MyLocalization.MinhaLocalizacaoListener
